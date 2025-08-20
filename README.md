@@ -16,4 +16,4 @@ Students often struggle to find genuine details about colleges. Official sites a
 ![Edit Profile Page](https://github.com/AnudeepReddy2005/KnowEasy_Website/blob/main/Project_Pics/edit_profile_form.jpg?raw=true)
 ![Admin Login Page](https://github.com/AnudeepReddy2005/KnowEasy_Website/blob/main/Project_Pics/admin_login.jpg?raw=true)
 ![Admin Panel](https://github.com/AnudeepReddy2005/KnowEasy_Website/blob/main/Project_Pics/admin_panel.jpg?raw=true)
-![Help Page](https://github.com/AnudeepReddy2005/KnowEasy_Website/blob/main/Project_Pics/Help_page.jpg?raw=true)
+![Help Page](https://github.com/AnudeepReddy2005/KnowEasy_Website/blob/main/Project_Pics/Help_page.png?raw=true)
